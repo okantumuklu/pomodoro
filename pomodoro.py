@@ -1,8 +1,10 @@
 from playsound import playsound
 import time
 print("""
-    pomodoro = 1.0
-    tavsiye set sayısı 4'dür
+   ---------------------------
+   |pomodoro = 1.0           |
+   |tavsiye set sayısı 4'dür |
+   --------------------------
 """)
 while True:
     tur = input("Kaç set yapmak istersiniz:")
