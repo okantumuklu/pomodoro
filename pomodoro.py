@@ -39,7 +39,7 @@ for i in range(turr):
         sayi1 -= 1
         print("Çalışmanın bitmesine:",sayi1)
         if sayi1 == 0:
-            playsound('bildir,mp3')
+            playsound('bildir.mp3')
             for i in range(sayi2):
                 time.sleep(1)
                 sayi2 -= 1
